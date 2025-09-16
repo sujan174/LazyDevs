@@ -3,4 +3,4 @@ transxript
 *.pyc
 .env
 Transcriber/pretrained_models/
-Transcriber test/pretrained_models/
+Transcriber 2stage/pretrained_models/
